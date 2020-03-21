@@ -1,0 +1,14 @@
+Book:
+    ID: string
+    Name: string
+    ISBN: string
+Publisher:
+    ID: string
+    Name: string
+    Country: string
+Author:
+    ID: string
+    Name: string
+Author_Book:
+    AuthorID: string
+    BookID: string
